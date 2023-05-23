@@ -32,7 +32,7 @@ body{
 .botao:hover{
     border-radius: 16px;
     cursor: pointer;
-    transform: scale(10);
+    transform: scale(1.10);
     transition: 0.2s ease-in-out;
     box-shadow: 0 0 15px 3px red;
 }
